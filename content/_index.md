@@ -82,8 +82,8 @@ sections:
       items:
        # - certificate_url: https://science.osti.gov/wdts/scgsr/
       #    date_end: ''
-       #   date_start: '2022-01-25'
-       #   description: 'The SCGSR program provides supplemental awards to outstanding U.S. graduate students (US citizens or lawful permanent residents) to pursue part of their graduate thesis research at a DOE laboratory/facility in areas that address scientific challenges central to the Office of Science mission.'
+          date_start: '2015-08-14'
+          description: 'Science without borders...'
       #    organization: Department of Energy Science Graduate Student Research (SCGSR) Program
        #   organization_url: https://science.osti.gov/wdts/scgsr/
         #  title: Department of Energy SCGSR Fellow
