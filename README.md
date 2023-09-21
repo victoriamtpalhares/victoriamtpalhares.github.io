@@ -1,2 +1,1 @@
-# victoriamtpalhares.github.io
-Personal website
+Grace Chesmore's personal website.
