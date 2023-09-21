@@ -1,4 +1,4 @@
-# Navigation Links
+ca# Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
@@ -10,8 +10,8 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
-  - name: Awards
-    url: '#accomplishments'
+  - name: Education
+    url: '#education'
     weight: 30
   - name: Recent Publications
     url: '#publications'
