@@ -40,15 +40,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-       # - title: Senior Engineer (Data Analytics and Reliability)
-       #   company: Ayar Labs
-        #  company_url: 'https://www.ayarlabs.com/'
-       #   company_logo: ayar
-        #  location: Santa Clara, California USA
-        #  date_start: '2023-05-22'
-       #   date_end: ''
-       #   description: |2-
-        #      As a Sr. Engineer, I focus on data analytics for the Multi-Wavelength Source (MWS) product development for Ayar Labs.  This includes developing data pipelines for the reliability team and executing reliability test plans for the MWS product.
+       - title: Graduate Research Assistant
+         company: ETH Zurich
+         company_url: 'https://iip.ethz.ch/'
+         location: Zurich, Switzerland
+         date_start: '2020-10-01'
+         date_end: '2025-04-01'
+         description: |2-
+          As a PhD student...
      #   - title: Graduate Researcher
      #     company: University of Chicago
       #    company_url: ''
