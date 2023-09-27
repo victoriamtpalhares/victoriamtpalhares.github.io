@@ -49,22 +49,6 @@ sections:
           date_end: ''
           description: |2-
               As a PhD student, ...
-        #- title: Graduate Researcher
-        #  company: University of Chicago
-        #  company_url: ''
-        #  company_logo: uchi
-        #  location: Chicago, Illinois USA
-        #  date_start: '2019-11-01'
-        #  date_end: '2023-03-01'
-        #  description: Working in Jeff McMahon's experimental cosmology group, I characterized and modeled optical elements for the Simons Observatory, a next-generation cosmology experiment.
-        #- title: Graduate Researcher
-        #  company: University of Michigan
-        #  company_url: ''
-        #  company_logo: umich
-        #  location: Ann Arbor, Michigan USA
-        #  date_start: '2017-09-01'
-        #  date_end: '2019-07-01'
-        #  description:
     design:
       columns: '2'
   - block: accomplishments
@@ -89,22 +73,6 @@ sections:
           organization_url: https://google.com/
           title: First title
           url: 'https://google.com/'
-        #- certificate_url: https://www.nsfgrfp.org/
-        #  date_end: ''
-        #  date_start: '2018-07-01'
-        #  description: 'The purpose of the NSF Graduate Research Fellowship Program (GRFP) is to ensure the quality, vitality, and diversity of the scientific and engineering workforce of the United States. GRFP seeks to broaden participation in science and engineering of underrepresented groups, including women, minorities, persons with disabilities, and veterans.'
-        #  organization: NSF Graduate Research Fellowship
-        #  organization_url: https://www.nsfgrfp.org/
-        #  title: NSF Graduate Research Fellow
-        #  url: https://www.nsfgrfp.org/
-        #- certificate_url: https://www.nasa.gov/directorates/spacetech/strg/nstgro
-        #  date_end: ''
-        #  date_start: '2018-07-01'
-        #  description: 'The goal of NSTRF is to sponsor U.S. citizen and permanent resident graduate students who show significant potential to contribute to NASA’s goal of creating innovative new space technologies for our Nation’s science, exploration and economic future.  Declined award offer.'
-        #  organization: NASA Space Technology Research Fellowship
-        #  organization_url: https://www.nasa.gov/directorates/spacetech/strg/nstgro
-        #  title: 'NASA Space Technology Research Fellow'
-        #  url: 'https://www.nasa.gov/directorates/spacetech/strg/nstgro'
     design:
       columns: '2'
 
@@ -123,7 +91,7 @@ sections:
     id: contact
     content:
       title: Contact
-      email: grace@ayarlabs.com
+      email: palhares@iis.ee.ethz
       contact_links:
 
       autolink: true
