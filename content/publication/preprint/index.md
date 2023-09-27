@@ -1,12 +1,13 @@
 ---
-title: "Simons Observatory: characterizing the Large Aperture Telescope Receiver with radio holography"
+title: "Channel Charting in Real-World Coordinates"
 authors:
+- Sueda Taner
 - admin
-date: "2022-09-24T00:00:00Z"
-doi: "https://doi.org/10.1364/AO.470138"
+date: "2023-09-24T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022"
+publishDate: "2023"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,11 +16,11 @@ publishDate: "2022"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Applied Optics*
-publication_short: In *AO*
+publication: In *arXiv*
+publication_short: In *arXiv*
 
 
-abstract: We present near-field radio holography measurements of the Simons Observatory Large Aperture Telescope Receiver optics. These measurements demonstrate that radio holography of complex millimeter-wave optical systems comprising cryogenic lenses, filters, and feed horns can provide detailed characterization of wave propagation before deployment. We used the measured amplitude and phase, at 4 K, of the receiver near-field beam pattern to predict two key performance parameters 1) the amount of scattered light that will spill past the telescope to 300 K and 2) the beam pattern expected from the receiver when fielded on the telescope. These cryogenic measurements informed the removal of a filter, which led to improved optical efficiency and reduced sidelobes at the exit of the receiver. Holography measurements of this system suggest that the spilled power past the telescope mirrors will be less than 1%, and the main beam with its near sidelobes are consistent with the nominal telescope design. This is the first time such parameters have been confirmed in the lab prior to deployment of a new receiver. This approach is broadly applicable to millimeter and submillimeter instruments.
+abstract: 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,8 +32,8 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://arxiv.org/abs/2207.07040
-url_code: 'https://opg.optica.org/ao/abstract.cfm?uri=ao-61-34-10309'
+url_pdf: https://arxiv.org/abs/2308.14498
+url_code: ''
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
