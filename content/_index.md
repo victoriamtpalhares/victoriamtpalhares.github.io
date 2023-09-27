@@ -47,23 +47,23 @@ sections:
          date_start: '2020-10-01'
          date_end: '2025-04-01'
          description: |2-
-          As a PhD student...
-     #   - title: Graduate Researcher
-     #     company: University of Chicago
-      #    company_url: ''
-     #     company_logo: uchi
-      #    location: Chicago, Illinois USA
-      #    date_start: '2019-11-01'
-      #    date_end: '2023-03-01'
-      #    description: Working in Jeff McMahon's experimental cosmology group, I characterized and modeled optical elements for the Simons Observatory, a next-generation cosmology experiment.
-      #  - title: Graduate Researcher
-        #  company: University of Michigan
-        #  company_url: ''
-        #  company_logo: umich
-        #  location: Ann Arbor, Michigan USA
-        #  date_start: '2017-09-01'
-       #   date_end: '2019-07-01'
-        #  description:
+         As a PhD student...
+#       - title: Graduate Researcher
+#         company: University of Chicago
+#         company_url: ''
+#         company_logo: uchi
+#        location: Chicago, Illinois USA
+#        date_start: '2019-11-01'
+#        date_end: '2023-03-01'
+#        description: Working in Jeff McMahon's experimental cosmology group, I characterized and modeled optical elements for the Simons Observatory, a next-generation cosmology experiment.
+#      - title: Graduate Researcher
+#        company: University of Michigan
+#        company_url: ''
+#        company_logo: umich
+#        location: Ann Arbor, Michigan USA
+#        date_start: '2017-09-01'
+#        date_end: '2019-07-01'
+#        description:
     design:
       columns: '2'
   - block: accomplishments
