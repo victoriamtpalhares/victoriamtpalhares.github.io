@@ -45,10 +45,10 @@ sections:
          company_url: 'https://iip.ethz.ch/'
          location: Zurich, Switzerland
          date_start: '2020-10-01'
-         date_end: '2025-04-01'
+         date_end: ''
          description: |2-
-             As a PhD student...
-#       - title: Graduate Researcher
+              As a Sr. Engineer, I focus on data analytics for the Multi-Wavelength Source (MWS) product development for Ayar Labs.  This includes developing data pipelines for the reliability team and executing reliability test plans for the MWS product.
+#        - title: Graduate Researcher
 #         company: University of Chicago
 #         company_url: ''
 #         company_logo: uchi
