@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Grace Chesmore
+title: Victoria Palhares
 
 # Full name (for SEO)
-first_name: Grace
-last_name: Chesmore
+first_name: Victoria
+last_name: Palhares
 
 # Status emoji
 status:
@@ -14,34 +14,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Sr. Engineer, Module Reliability.  Experimental researcher in optics and photonics.
+role: Graduate Student, Wireless Communications.  Algorithm development for wireless systems.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Ayar Labs
-    url: https://www.ayarlabs.com/
+  - name: ETH Zurich
+    url: https://ethz.ch/de.html
 
 # Short bio (displayed in user profile at end of posts)
 bio:  
 
 # Interests to show in About widget
 interests:
-  - Optics
-  - Laser reliability
-  - Optical characterization
+  - Wireless Communications
+  - Machine Learning
+  - Artificial Intelligence
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Physics
-      institution: University of Chicago
-      year: 2023
-    - course: MS in Physics
-      institution: University of Michigan
-      year: 2019
-    - course: BA in Physics
-      institution: Santa Clara University
-      year: 2017
+    - course: PhD in Electrical Engineering
+      institution: ETH Zurich
+      year: 2025
+    - course: MS in Electrical Engineering
+      institution: Pontifical Catholic University of Rio de Janeiro
+      year: 2020
+    - course: BS in Electrical Engineering
+      institution: Pontifical Catholic University of Rio de Janeiro
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,21 +51,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/grace_optics
-    label: Follow me on Twitter
-    display:
-      header: true
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/grace_optics
+  #  label: Follow me on Twitter
+  #  display:
+  #    header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=Mbgr0_gAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=D5pmVf0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/chesmore
+    link: https://github.com/victoriamtpalhares
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/grace-chesmore/
+    link: https://www.linkedin.com/in/victoria-palhares-3b036aa8/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -74,11 +74,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'grace@ayarlabs.com'
+email: 'palhares@iis.ee.ethz.ch'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am an experimental physicist and researcher in photonics.  As a Senior Engineer at [Ayar Labs](https://ayarlabs.com/), I work on the [SupNova multi-wavelength laser source](https://ayarlabs.com/supernova/), where I develop data tools and conduct laser performance analysis.
+I am a PhD student at ETH Zurich
 {style="text-align: justify;"}

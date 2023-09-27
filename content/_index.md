@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-09-27
 type: landing
 
 sections:
@@ -11,14 +11,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-#   - block: features
-#     content:
-#      title: Skills
-#       items:
-#         - name: R
-#           description: 90%
-#           icon: r-project
-#           icon_pack: fab
+  # - block: features
+  #   content:
+  #     title: Skills
+  #     items:
+  #       - name: R
+  #         description: 90%
+  #         icon: r-project
+  #         icon_pack: fab
   #       - name: Statistics
   #         description: 100%
   #         icon: chart-line
@@ -40,30 +40,31 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-       - title: Graduate Research Assistant
-         company: ETH Zurich
-         company_url: 'https://iip.ethz.ch/'
-         location: Zurich, Switzerland
-         date_start: '2020-10-01'
-         date_end: ''
-         description: |2-
-              As a Sr. Engineer, I focus on data analytics for the Multi-Wavelength Source (MWS) product development for Ayar Labs.  This includes developing data pipelines for the reliability team and executing reliability test plans for the MWS product.
-#        - title: Graduate Researcher
-#         company: University of Chicago
-#         company_url: ''
-#         company_logo: uchi
-#        location: Chicago, Illinois USA
-#        date_start: '2019-11-01'
-#        date_end: '2023-03-01'
-#        description: Working in Jeff McMahon's experimental cosmology group, I characterized and modeled optical elements for the Simons Observatory, a next-generation cosmology experiment.
-#      - title: Graduate Researcher
-#        company: University of Michigan
-#        company_url: ''
-#        company_logo: umich
-#        location: Ann Arbor, Michigan USA
-#        date_start: '2017-09-01'
-#        date_end: '2019-07-01'
-#        description:
+        - title: Graduate Student
+          company: ETH Zurich
+          company_url: 'https://www.ayarlabs.com/'
+          company_logo: ayar
+          location: Zurich, Switzerland
+          date_start: '2020-10-01'
+          date_end: ''
+          description: |2-
+              As a PhD student, ...
+        #- title: Graduate Researcher
+        #  company: University of Chicago
+        #  company_url: ''
+        #  company_logo: uchi
+        #  location: Chicago, Illinois USA
+        #  date_start: '2019-11-01'
+        #  date_end: '2023-03-01'
+        #  description: Working in Jeff McMahon's experimental cosmology group, I characterized and modeled optical elements for the Simons Observatory, a next-generation cosmology experiment.
+        #- title: Graduate Researcher
+        #  company: University of Michigan
+        #  company_url: ''
+        #  company_logo: umich
+        #  location: Ann Arbor, Michigan USA
+        #  date_start: '2017-09-01'
+        #  date_end: '2019-07-01'
+        #  description:
     design:
       columns: '2'
   - block: accomplishments
@@ -80,30 +81,30 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-       # - certificate_url: https://science.osti.gov/wdts/scgsr/
-      #    date_end: ''
-          date_start: '2015-08-14'
-          description: 'Science without borders...'
-      #    organization: Department of Energy Science Graduate Student Research (SCGSR) Program
-       #   organization_url: https://science.osti.gov/wdts/scgsr/
-        #  title: Department of Energy SCGSR Fellow
-       #   url: 'https://science.osti.gov/wdts/scgsr/'
-       # - certificate_url: https://www.nsfgrfp.org/
-      #    date_end: ''
-      #    date_start: '2018-07-01'
-      #    description: 'The purpose of the NSF Graduate Research Fellowship Program (GRFP) is to ensure the quality, vitality, and diversity of the scientific and engineering workforce of the United States. GRFP seeks to broaden participation in science and engineering of underrepresented groups, including women, minorities, persons with disabilities, and veterans.'
-         # organization: NSF Graduate Research Fellowship
-         # organization_url: https://www.nsfgrfp.org/
-         # title: NSF Graduate Research Fellow
+        - certificate_url: https://google.com/
+          date_end: ''
+          date_start: '2023-01-01'
+          description: 'First achievement'
+          organization: Department
+          organization_url: https://google.com/
+          title: First title
+          url: 'https://google.com/'
+        #- certificate_url: https://www.nsfgrfp.org/
+        #  date_end: ''
+        #  date_start: '2018-07-01'
+        #  description: 'The purpose of the NSF Graduate Research Fellowship Program (GRFP) is to ensure the quality, vitality, and diversity of the scientific and engineering workforce of the United States. GRFP seeks to broaden participation in science and engineering of underrepresented groups, including women, minorities, persons with disabilities, and veterans.'
+        #  organization: NSF Graduate Research Fellowship
+        #  organization_url: https://www.nsfgrfp.org/
+        #  title: NSF Graduate Research Fellow
         #  url: https://www.nsfgrfp.org/
-      #  - certificate_url: https://www.nasa.gov/directorates/spacetech/strg/nstgro
-       #   date_end: ''
+        #- certificate_url: https://www.nasa.gov/directorates/spacetech/strg/nstgro
+        #  date_end: ''
         #  date_start: '2018-07-01'
         #  description: 'The goal of NSTRF is to sponsor U.S. citizen and permanent resident graduate students who show significant potential to contribute to NASA’s goal of creating innovative new space technologies for our Nation’s science, exploration and economic future.  Declined award offer.'
         #  organization: NASA Space Technology Research Fellowship
         #  organization_url: https://www.nasa.gov/directorates/spacetech/strg/nstgro
-       #   title: 'NASA Space Technology Research Fellow'
-       #   url: 'https://www.nasa.gov/directorates/spacetech/strg/nstgro'
+        #  title: 'NASA Space Technology Research Fellow'
+        #  url: 'https://www.nasa.gov/directorates/spacetech/strg/nstgro'
     design:
       columns: '2'
 
@@ -121,9 +122,9 @@ sections:
   - block: contact
     id: contact
     content:
-     # title: Contact
-     # email: grace@ayarlabs.com
-     # contact_links:
+      title: Contact
+      email: grace@ayarlabs.com
+      contact_links:
 
       autolink: true
       # Email form provider
