@@ -47,7 +47,7 @@ sections:
          date_start: '2020-10-01'
          date_end: '2025-04-01'
          description: |2-
-         As a PhD student...
+             As a PhD student...
 #       - title: Graduate Researcher
 #         company: University of Chicago
 #         company_url: ''
