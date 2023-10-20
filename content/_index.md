@@ -72,8 +72,8 @@ sections:
           company_url: 'https://www.puc-rio.br/english/'
           company_logo: puc_rio
           location: Rio de Janeiro, Brazil
-          date_start: '2017-08-13'
-          date_end: '2018-08-12'
+          date_start: '2017-08-01'
+          date_end: '2018-08-01'
           description: |2-
               Design of an RF amplifier for inductive coupling coils. The project involves design using the software Advanced Design System (ADS) e experiments using metamaterials, with the intent to increase the transmission distance. Participation in the foundation of the Metamaterials Brazilian Society (SBMETA).
         - title: Microwave Intern
@@ -81,8 +81,8 @@ sections:
           company_url: 'https://www.huawei.com/br/'
           company_logo: huawei
           location: Rio de Janeiro, Brazil
-          date_start: '2016-10'
-          date_end: '2017-08'
+          date_start: '2016-10-01'
+          date_end: '2017-08-01'
           description: |2-
               Large communication network planning. Worked with line-of-sight (LOS) simulations for microwave planning and antennas and equipment choices. Had contact with clients such as TIM Brazil and Claro.
         - title: Summer Research Assistant
@@ -90,8 +90,8 @@ sections:
           company_url: 'https://uci.edu/'
           company_logo: uci
           location: Irvine, United States
-          date_start: '2017-08-13'
-          date_end: '2018-08-12'
+          date_start: '2016-05-20'
+          date_end: '2016-08-14'
           description: |2-
               Interface development for Parrot AR Drone 2.0 Quadcopter and Turtlebot to work under ROS operational system. An algorithm using Kinect for distance analysis and collision avoidance.
         - title: Portuguese Teacher 
@@ -99,8 +99,8 @@ sections:
           company_url: 'https://www.uccs.edu/'
           company_logo: uccs
           location: Colorado Springs, United States
-          date_start: '2016-03'
-          date_end: '2016-05'
+          date_start: '2016-03-01'
+          date_end: '2016-05-01'
           description: |2-
               Portuguese teacher for american students preparing for summer research in Portugal.
         - title: Undergraduate Research Assistant
@@ -108,8 +108,8 @@ sections:
           company_url: 'https://www.puc-rio.br/english/'
           company_logo: puc_rio
           location: Rio de Janeiro, Brazil
-          date_start: '2014-08'
-          date_end: '2015-08'
+          date_start: '2014-08-01'
+          date_end: '2015-08-01'
           description: |2-
               Development of an app capable of performing Libras (Brazilian Sign Language) to Portuguese and Portuguese to Libras translation, for Android, Windows Phone, and iOS platforms. Worked with databases and web development. Presented a paper at the International Workshop on Assistive Technology, in February 2015.
         - title: Electronics Team Member
@@ -117,8 +117,8 @@ sections:
           company_url: 'https://www.riobotz.com/'
           company_logo: riobotz
           location: Rio de Janeiro, Brazil
-          date_start: '2013-08'
-          date_end: '2015-08'
+          date_start: '2013-08-01'
+          date_end: '2015-08-01'
           description: |2-
               Development and maintenance of the electronics for combat robots that compete at national and international levels. Tasks included soldering, electronic components maintenance, and programming. Gave soldering workshops for new members of the team. Work with DC motors, batteries, speed controllers, and radios. Participation in 3 national competitions (Ultimate Robot Combat 2014, Winter Challenge 2014, Ultimate Robot Combat 2015) and one international (Robogames 2015).
     design:
