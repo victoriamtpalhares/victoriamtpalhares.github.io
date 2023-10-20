@@ -121,8 +121,6 @@ sections:
             date_end: '2015-08'
             description: |2-
                 Development and maintenance of the electronics for combat robots that compete at national and international levels. Tasks included soldering, electronic components maintenance, and programming. Gave soldering workshops for new members of the team. Work with DC motors, batteries, speed controllers, and radios. Participation in 3 national competitions (Ultimate Robot Combat 2014, Winter Challenge 2014, Ultimate Robot Combat 2015) and one international (Robogames 2015).
-
-
     design:
       columns: '2'
   - block: accomplishments
