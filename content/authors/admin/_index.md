@@ -28,7 +28,8 @@ bio:
 interests:
   - Wireless Communications
   - Machine Learning
-  - Artificial Intelligence
+  - Optimization
+  - Signal Processing
 
 # Education to show in About widget
 education:
@@ -36,10 +37,10 @@ education:
     - course: PhD in Electrical Engineering
       institution: ETH Zurich
       year: 2025
-    - course: MS in Electrical Engineering
+    - course: MSc in Electrical Engineering
       institution: Pontifical Catholic University of Rio de Janeiro
       year: 2020
-    - course: BS in Electrical Engineering
+    - course: BSc in Electrical Engineering
       institution: Pontifical Catholic University of Rio de Janeiro
       year: 2018
 
@@ -80,5 +81,5 @@ email: 'palhares@iis.ee.ethz.ch'
 highlight_name: true
 ---
 
-I am a PhD student at ETH Zurich
+I am a PhD candidate in Electrical Engineering at ETH Zürich. As a research assistant at the Integrated Information Processing (IIP) Group, I develop solutions for beyond-fifth-generation (B5G) wireless communication systems.
 {style="text-align: justify;"}
