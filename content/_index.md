@@ -46,7 +46,6 @@ sections:
           company_logo: eth
           location: Zurich, Switzerland
           date_start: '2020-10-01'
-          date_end: ''
           description: |2-
               Research on resource allocation for beyond-fifth-generation (B5G) wireless communication systems.
         - title: Graduate Teaching Assistant
@@ -55,7 +54,6 @@ sections:
           company_logo: eth
           location: Zurich, Switzerland
           date_start: '2022-02-22'
-          date_end: ''
           description: |2-
               Teaching Assistant for the master’s level lecture Wireless Communications.
         - title: Graduate Research Assistant
