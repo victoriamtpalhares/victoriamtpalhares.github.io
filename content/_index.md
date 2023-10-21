@@ -43,7 +43,6 @@ sections:
         - title: Graduate Research Assistant
           company: ETH Zurich
           company_url: 'https://iip.ethz.ch/'
-          company_logo: eth
           location: Zurich, Switzerland
           date_start: '2020-10-01'
           description: |2-
@@ -51,7 +50,6 @@ sections:
         - title: Graduate Teaching Assistant
           company: ETH Zurich
           company_url: 'https://iip.ethz.ch/'
-          company_logo: eth
           location: Zurich, Switzerland
           date_start: '2022-02-22'
           description: |2-
@@ -59,7 +57,6 @@ sections:
         - title: Graduate Research Assistant
           company: Pontifical Catholic University of Rio de Janeiro
           company_url: 'https://www.puc-rio.br/english/'
-          company_logo: puc_rio
           location: Rio de Janeiro, Brazil
           date_start: '2018-08-13'
           date_end: '2020-08-21'
@@ -68,7 +65,6 @@ sections:
         - title: Undergraduate Research Assistant
           company: Pontifical Catholic University of Rio de Janeiro
           company_url: 'https://www.puc-rio.br/english/'
-          company_logo: puc_rio
           location: Rio de Janeiro, Brazil
           date_start: '2017-08-01'
           date_end: '2018-08-01'
@@ -77,25 +73,22 @@ sections:
         - title: Microwave Intern
           company: Huawei Technologies
           company_url: 'https://www.huawei.com/br/'
-          company_logo: huawei
           location: Rio de Janeiro, Brazil
           date_start: '2016-10-01'
           date_end: '2017-08-01'
           description: |2-
               Large communication network planning. Worked with line-of-sight (LOS) simulations for microwave planning and antennas and equipment choices. Had contact with clients such as TIM Brazil and Claro.
         - title: Summer Research Assistant
-          company: Huawei Technologies
+          company: University of California, Irvine
           company_url: 'https://uci.edu/'
-          company_logo: uci
           location: Irvine, United States
           date_start: '2016-05-20'
           date_end: '2016-08-14'
           description: |2-
               Interface development for Parrot AR Drone 2.0 Quadcopter and Turtlebot to work under ROS operational system. An algorithm using Kinect for distance analysis and collision avoidance.
         - title: Portuguese Teacher 
-          company: Huawei Technologies
+          company: University of Colorado, Colorado Springs
           company_url: 'https://www.uccs.edu/'
-          company_logo: uccs
           location: Colorado Springs, United States
           date_start: '2016-03-01'
           date_end: '2016-05-01'
@@ -104,7 +97,6 @@ sections:
         - title: Undergraduate Research Assistant
           company: Pontifical Catholic University of Rio de Janeiro
           company_url: 'https://www.puc-rio.br/english/'
-          company_logo: puc_rio
           location: Rio de Janeiro, Brazil
           date_start: '2014-08-01'
           date_end: '2015-08-01'
@@ -113,7 +105,6 @@ sections:
         - title: Electronics Team Member
           company: Pontifical Catholic University of Rio de Janeiro
           company_url: 'https://www.riobotz.com/'
-          company_logo: riobotz
           location: Rio de Janeiro, Brazil
           date_start: '2013-08-01'
           date_end: '2015-08-01'
