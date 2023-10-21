@@ -28,8 +28,8 @@ publishDate: '2021-07-11T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Statistical Signal Processing Workshop*
-publication_short: In *IEEE SSP*
+publication: In *IEEE Statistical Signal Processing Workshop 2021*
+publication_short: In *IEEE SSP 2021*
 
 abstract: 
 
